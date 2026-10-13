@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
+header {
+  padding: 16px 24px;
+  background: #f4f4f4;
+}
+h1 {
+  font-size: 20px;
+}
+button {
+  padding: 8px 12px;
+}
+output {
+  margin-left: 16px;
+}
+main {
+  width: 1100px;
+  height: 900px;
+  overflow: auto;
+}

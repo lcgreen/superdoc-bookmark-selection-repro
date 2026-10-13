@@ -1,0 +1,161 @@
+[
+  {
+    "fixture": "bookmarks",
+    "finalWord": "END",
+    "quotedText": "This paragraph contains synthetic text to reproduce a selection issue in the editor.  Several references follow below. The example includes four different anchors. The first is called    reference A, next is a token B in a second part. , next is a reference C.. The highlight must follow each rendered line. The reference is      reference D.. The last marker is printed as END.",
+    "selectionTarget": {
+      "kind": "selection",
+      "start": {
+        "kind": "text",
+        "blockId": "00000005",
+        "offset": 0,
+        "story": {
+          "kind": "story",
+          "storyType": "body"
+        }
+      },
+      "end": {
+        "kind": "text",
+        "blockId": "00000005",
+        "offset": 378,
+        "story": {
+          "kind": "story",
+          "storyType": "body"
+        }
+      },
+      "story": {
+        "kind": "story",
+        "storyType": "body"
+      }
+    },
+    "rects": [
+      {
+        "left": 81.5938,
+        "top": 164.453,
+        "width": 649.484,
+        "height": 19.6562
+      },
+      {
+        "left": 81.5938,
+        "top": 184.109,
+        "width": 628.688,
+        "height": 19.6562
+      },
+      {
+        "left": 81.5938,
+        "top": 203.766,
+        "width": 605.203,
+        "height": 19.6562
+      },
+      {
+        "left": 81.5938,
+        "top": 223.422,
+        "width": 278.094,
+        "height": 15
+      }
+    ],
+    "fonts": [
+      "Carlito"
+    ]
+  },
+  {
+    "fixture": "bookmarks",
+    "finalWord": "END.",
+    "quotedText": "This paragraph contains synthetic text to reproduce a selection issue in the editor.  Several references follow below. The example includes four different anchors. The first is called    reference A, next is a token B in a second part. , next is a reference C.. The highlight must follow each rendered line. The reference is      reference D.. The last marker is printed as END.",
+    "selectionTarget": {
+      "kind": "selection",
+      "start": {
+        "kind": "text",
+        "blockId": "00000005",
+        "offset": 0,
+        "story": {
+          "kind": "story",
+          "storyType": "body"
+        }
+      },
+      "end": {
+        "kind": "text",
+        "blockId": "00000005",
+        "offset": 379,
+        "story": {
+          "kind": "story",
+          "storyType": "body"
+        }
+      },
+      "story": {
+        "kind": "story",
+        "storyType": "body"
+      }
+    },
+    "rects": [
+      {
+        "left": 81.5938,
+        "top": 162.453,
+        "width": 642.623,
+        "height": 78.6562
+      }
+    ],
+    "fonts": [
+      "Carlito"
+    ]
+  },
+  {
+    "fixture": "no-bookmarks",
+    "finalWord": "END.",
+    "quotedText": "This paragraph contains synthetic text to reproduce a selection issue in the editor.  Several references follow below. The example includes four different anchors. The first is called    reference A, next is a token B in a second part. , next is a reference C.. The highlight must follow each rendered line. The reference is      reference D.. The last marker is printed as END.",
+    "selectionTarget": {
+      "kind": "selection",
+      "start": {
+        "kind": "text",
+        "blockId": "00000005",
+        "offset": 0,
+        "story": {
+          "kind": "story",
+          "storyType": "body"
+        }
+      },
+      "end": {
+        "kind": "text",
+        "blockId": "00000005",
+        "offset": 378,
+        "story": {
+          "kind": "story",
+          "storyType": "body"
+        }
+      },
+      "story": {
+        "kind": "story",
+        "storyType": "body"
+      }
+    },
+    "rects": [
+      {
+        "left": 81.5938,
+        "top": 164.453,
+        "width": 649.484,
+        "height": 19.6562
+      },
+      {
+        "left": 81.5938,
+        "top": 184.109,
+        "width": 628.688,
+        "height": 19.6562
+      },
+      {
+        "left": 81.5938,
+        "top": 203.766,
+        "width": 605.203,
+        "height": 19.6562
+      },
+      {
+        "left": 81.5938,
+        "top": 223.422,
+        "width": 281.797,
+        "height": 15
+      }
+    ],
+    "fonts": [
+      "Carlito"
+    ]
+  }
+]
